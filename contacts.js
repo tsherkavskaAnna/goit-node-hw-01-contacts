@@ -44,9 +44,7 @@ const removeContact = async(contactId) => {
   return result;
  }
 
-// function addContact(name, email, phone) {
-//   // ...твій код
-// }
+
 module.exports = {
     listContacts,
     getContactById,
